@@ -1,0 +1,27 @@
+What I've been reading & watching
+Esha Rizwan | Ongoing
+I got curious about human memory and thought and started going down rabbit holes — Google, YouTube, research papers. This is just an honest log of what I've found, what stuck, and what questions I still have.
+
+Research Papers
+PaperWhat I FoundWhat I'm Still WonderingTseng & Poppenk (2020) — Queen's University fMRI studyHumans have ~6,200 thoughts per day, not 60-70k. Researchers tracked "thought worms" via fMRI — each new thought creates a distinct brain state. This completely changed how I think about attention and screen timeWhat happens to thought frequency when someone is genuinely engaged vs passively scrolling?Thought Control Questionnaire (TCQ) — Wells & DaviesFive strategies people use for intrusive thoughts — distraction, social engagement, pondering, reappraisal, worry. Most people default to pondering which is the least effectiveCan these strategies actually be built into an app in a way that feels natural rather than therapeutic?Shonkoff & Phillips (2000) — From Neurons to NeighborhoodsEarly experiences literally shape the architecture of the developing brain. The brain forms neural pathways based on repeated experiences which become frameworks for interpreting the worldHow much of this early architecture is changeable later — and what does it take?LeDoux (1996) — The Emotional BrainThe amygdala can activate emotional responses based on past experiences before the rational brain even processes the situation. This explains why emotional reactions sometimes feel disproportionate to what's actually happeningCan we design technology that accounts for this — that doesn't trigger fear or anxiety responses unnecessarily?van der Kolk (2014) — The Body Keeps the ScoreTraumatic experiences are stored in memory systems connected to emotion and survival. Even without conscious memory of an event, the brain and body still react to similar signals laterWhat does this mean for how we design mental health technology — especially for children?Brown et al. (2020) — Language Models are Few-Shot LearnersLLMs learn by finding patterns in massive human-generated datasets. AI doesn't create knowledge independently — it extracts patterns from human workWho owns that knowledge? Is it ethical to train on public human output without consent or compensation?Bommasani et al. (2021) — On Foundation ModelsThese models are called "foundation models" because they're built entirely on large datasets derived from human knowledge and outputThe scale of this dependency on human labor is rarely discussed publiclyLi et al. (2023) — Making AI Less "Thirsty"Training and running large AI models consumes significant water through data center cooling systems — fresh water, in many casesHow does this change the ethics of deploying AI at scale in water-scarce regions like the UAE?
+
+Books & Long Reads
+WhatWhy It MatteredThinking, Fast and Slow — KahnemanSystem 1 vs System 2 — most of what we do is automatic. Changed how I think about why people doom scroll even when they don't want to. You can't fight System 1, you have to design around itThe Shallows — Nicholas CarrInternet use is actually reshaping how our brains process information — toward shallower, faster, less retentive reading. This is the book that made me think CognifyMe is genuinely necessaryIrresistible — Adam Alter (2017)Digital systems trigger reward loops similar to other forms of addictive behavior. Algorithm-driven platforms aren't accidents — they're engineered to create compulsionAtlas of AI — Kate Crawford (2021)AI systems are deeply dependent on human knowledge, digital labor, and cultural data produced by society — often without acknowledgment or compensationAttachment and Loss — John Bowlby (1969)Early relationships with caregivers shape emotional expectations we carry throughout life. Security or instability in childhood creates lasting patterns in how we relate to others and the world
+
+Topics I'm Going Deeper On
+
+Spaced repetition — why reviewing things at intervals is so much more effective than cramming, and whether this can be built into everyday apps naturally
+Early childhood cognitive development — specifically the idea that the experiences children have before age 7 create the mental frameworks they use for everything after
+Default Mode Network — what the brain actually does when it's "resting" and why this matters for creativity and memory
+Predictive coding — the theory that the brain is constantly predicting rather than passively receiving. Still getting my head around this one
+
+
+Questions I Haven't Answered Yet
+
+Of the ~6,200 thoughts we have daily, what determines which ones get captured into memory vs disappear immediately?
+Is there a measurable neurological difference between learning something because you're curious vs learning because you have to?
+How early do individual differences in working memory show up in children — and can the right environment change that?
+What would it actually look like to design an app that works with human cognitive limits instead of against them?
+
+
+I'm not an academic. I'm a CS graduate who got curious about how human memory works and followed that curiosity. These are honest notes from that process.
